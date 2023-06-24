@@ -1,0 +1,40 @@
+ body 
+{
+  height:3000px;
+    padding:25px;
+}.img
+{
+  border:3px solid;
+  height:500px;
+  background-color:#ccc;
+  background-image:url(https://images.unsplash.com/photo-1535068484622-7a077e5aa558?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODczNDk3OTZ8&ixlib=rb-4.0.3&q=85),url(https://images.unsplash.com/photo-1686079746732-ab2a86a36b82?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODczNDkzNDB8&ixlib=rb-4.0.3&q=85),url(https://images.unsplash.com/photo-1579981632912-48c73429cf67?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODczNTIzNTF8&ixlib=rb-4.0.3&q=85https://images.unsplash.com/photo-1579981632912-48c73429cf67?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODczNTIzNTF8&ixlib=rb-4.0.3&q=85);
+ background-size:300px,65%,25%;
+  background-position:top left,center center,bottom right;
+    background-repeat:no-repeat;
+   border-radius: 100px;
+}
+nav
+{
+  border:2px solid;
+  height:300px;
+  background:radial-gradient(white,purple);
+}
+nav1
+{
+  display:inline-block;
+  border:2px solid;
+  background:linear-gradient(to right bottom,purple,white);
+  width:100%;
+  height:300px;
+}
+h1
+{
+  text-shadow:10px 10px 5px purple;
+ }
+span h4
+{
+  border : 5px solid purple;
+  padding: 5px;
+  background-color: gray;
+  box-shadow:-5px 10px 5px gray;
+}
