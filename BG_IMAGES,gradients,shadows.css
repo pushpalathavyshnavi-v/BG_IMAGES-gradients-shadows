@@ -38,3 +38,15 @@ span h4
   background-color: gray;
   box-shadow:-5px 10px 5px gray;
 }
+.inset
+{
+    display:block;
+  border-radius: 100%  ;
+   margin :50px auto;
+  height:150px;
+  width:150px;
+  box-shadow:inset 1cm 0  blue;
+    background-color:yellow;
+ padding:15px;
+  color:white;
+}
