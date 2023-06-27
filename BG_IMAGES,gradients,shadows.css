@@ -33,7 +33,7 @@ h1
  }
 span h4
 {
-  border : 5px solid purple;
+  border: 5px solid purple;
   padding: 5px;
   background-color: gray;
   box-shadow:-5px 10px 5px gray;
@@ -42,7 +42,7 @@ span h4
 {
     display:block;
   border-radius: 100%  ;
-   margin :50px auto;
+   margin:50px auto;
   height:150px;
   width:150px;
   box-shadow:inset 1cm 0  blue;
